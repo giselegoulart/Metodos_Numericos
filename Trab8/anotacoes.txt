@@ -1,0 +1,32 @@
+2 - [ 0.28259839 -0.10254618 -1.27971711]
+tol = 10**(-6)
+x0 = 0.1
+y0 = -0.5
+z0 = 0
+Matriz Jacobiana Randômica testada 17 vezes e convergência em 10 iterações
+
+
+6 - entrada 0.0639310123124 -0.957653145575 -0.353707777594
+S = 0.0639310123124 -0.957653145575 -0.353707777594
+tol = 10**(-6)
+
+
+8 -  [ 0.00113466 -0.00011348  0.00043566  0.00043572]
+tol = 10**(-6)
+Matriz Jacobiana Randômica testada 150 vezes e convergência em 24 iterações
+
+
+9 -  [ 1.00000044  0.99999979  0.57734987 -0.57735062]
+x0 = 1
+y0 = 2
+z0 = 3
+w0 = 0.5
+tol = 10**(-6)
+Matriz Jacobiana Randômica testada 52 vezes e convergência em 37 iterações
+
+
+
+10 - entrada 0.860876501058 -0.440634731817 0.570445071156 0.980561718853
+[ 5.00000014e-01 -1.99510651e-09 -5.23598775e-01]
+tol = 10**(-6)
+Matriz Jacobiana Randômica testada 13 vezes e convergência em 19 iterações
